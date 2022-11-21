@@ -1,0 +1,45 @@
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\bin\Debug\net6.0\PageObject.deps.json
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\bin\Debug\net6.0\PageObject.dll
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\bin\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.dll
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\source\repos\SpecFlowProject1\PageObject\obj\Debug\net6.0\ref\PageObject.dll
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\bin\Debug\net6.0\PageObject.deps.json
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\bin\Debug\net6.0\PageObject.dll
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\bin\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.dll
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\Documents\Software-product-testing\Lab2\PageObject\obj\Debug\net6.0\ref\PageObject.dll
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\bin\Debug\net6.0\PageObject.deps.json
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\bin\Debug\net6.0\PageObject.dll
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\bin\Debug\net6.0\PageObject.pdb
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.dll
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\PageObject.pdb
+C:\Users\LENOVO Legion\Desktop\LPNU\test\Lab2\PageObject\obj\Debug\net6.0\ref\PageObject.dll
