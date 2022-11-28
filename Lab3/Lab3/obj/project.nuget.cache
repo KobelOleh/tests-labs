@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "aV+M786AZ48aNL+F55gx59DTnnUdOD5NUOH7Ho6MZbvumc48qMXFhc8xNYR9OFVzGGJp8/HzDu7jHf/2YOMnQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO Legion\\Desktop\\LPNU\\test\\Lab3\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\restsharp.newtonsoft.json\\1.5.1\\restsharp.newtonsoft.json.1.5.1.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\restsharp.serializers.newtonsoftjson\\108.0.2\\restsharp.serializers.newtonsoftjson.108.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\restsharp.serializers.systemtextjson\\106.15.0\\restsharp.serializers.systemtextjson.106.15.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\LENOVO Legion\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
